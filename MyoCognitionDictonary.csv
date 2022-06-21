@@ -188,32 +188,32 @@
 "","",""
 "PLEASE_WAIT","Please wait a few seconds and try again.","Будь ласка, зачекайте декілька секунд і повторіть."
 "PLEASE_WAIT_FOR_RECORDING","Please wait until recording session has completed","Будь ласка, зачекайте доки завершиться запис сеансу"
-,,
+"","",""
 "LOGOUT_TEXT","Do you really want to log out?","Ви дійсно хочете вийти?"
-,,
+"","",""
 "STOP","STOP","СТОП"
-,,
+"","",""
 "DUPLICATE_MOVEMENTS_SELECTED","Duplicate movements detected. Each direction must have a unique movement.","Виявлено дубльовані рухи. Кожен напрямок повинен мати унікальний рух."
 "WANNA_SAVE_DATA","Do you want to save the data that you just recorded?","Бажаете зберегти щойно записані дані?"
-,,
+"","",""
 "POOR_RECORDING_QUALITY","Poor recording quality...","Погана якість запису..."
 "ACCEPTABLE_RECORDING_QUALITY","Acceptable recording quality","Прийнятна якість запису"
 "EXCELLENT_RECORDING_QUALITY","Excellent recording quality!","Чудова якість запису"
 "TOTAL_CLASSIFICATION_ACCURACY","Total classification accuracy: ","Загальна точність класифікації:"
-,,
+"","",""
 "PLEASE_SET_DEVICE_IP","Please set a Device IP","Будь ласка, встановіть IP-адресу пристрою"
 "SELECT_ONE_MOVEMENT","Please select at least one movement","Будь ласка, виберіть принаймні один рух"
-,,
+"","",""
 "FAILED_IMPORTING_USER_SINCE_ID_ALREADY_EXIXTS","Failed importing the user since the ID already exists \n","Не вдалося імпортувати користувача, оскільки ідентифікатор уже існує \n"
 "FAILED_IMPORTING_USER_ID_INCORRECT_FORMAT","Failed importing the user since the ID does not follow the correct format","Не вдалося імпортувати користувача, оскільки ідентифікатор не відповідає правильному формату"
 "FAILED_IMPORTING_WRONG_TYPE","Failed importing since the patient is of type: ","Не вдалося імпортувати, оскільки пацієнт має такий тип:"
 "PLEASE_CHANGE_SETTINGS","\nPlease Change Settings and try again.","\nЗмініть налаштування та повторіть спробу."
 "SUCCESFULLY_IMPORTED","Successfully imported!","Успішно імпортовано!"
 "APPLICATION_IS_LOADING","The application is loading. Please wait.","Додаток завантажується. Будь ласка, зачекайте."
-,,
+"","",""
 "PER_MOVEMENT_ACCURACY","Per movement accuracy: ","Точність руху:"
 "YES","Yes","Так"
 "No","No","Ні"
-,,
+"","",""
 "ConfigurationsPageSwedishText","Swedish","Шведська"
 "ConfigurationsPageUkrainianText","Ukrainian","Українська"
